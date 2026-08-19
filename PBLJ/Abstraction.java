@@ -3,21 +3,26 @@ abstract class bank{
   public void getBalance(){
     System.out.println(balance);
   }
-  public void setbalance(int val){
+  public void setBalance(int val){
     balance=val;
   }
   public int getCurrentBalance(){
     return balance;
   }
+}
+class Sbi extends bank{
   public void credit(int val){
-    balance+=val;
+    int current=getCurrentBalance();
+    current+=val;
+    setBalance(current);
   }
   public void debit(int val){
-    balance-=val;
+    int current=getCurrentBalance();
+    current-=val;
+    setBalance(current);
   }
 }
-class Sbi extends bank{}
-
+    
 public class Abstration{
   public static void main(String[]args){
     Sbi sbi=new Sbi();
