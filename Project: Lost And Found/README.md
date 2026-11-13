@@ -3,7 +3,6 @@
 > **Academic Project Submission**  
 > **Course Subject:** **Full Stack Web Development**  
 > **Architecture:** **MERN / React.js + Node.js & Express.js REST API**  
-> **Degree Program:** B.Tech / B.E. / MCA / BCA in Computer Science & Engineering  
 
 ![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js_v18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
