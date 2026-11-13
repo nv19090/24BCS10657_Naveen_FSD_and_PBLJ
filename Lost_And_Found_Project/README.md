@@ -8,7 +8,6 @@
 ![Node.js](https://img.shields.io/badge/Backend-Node.js_v18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/API-Express.js_REST-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Build-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Status](https://img.shields.io/badge/Evaluation-Ready_for_Submission-success?style=for-the-badge)
 
 ---
 
