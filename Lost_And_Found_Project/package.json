@@ -1,0 +1,20 @@
+{
+  "name": "campus-lost-and-found",
+  "version": "1.0.0",
+  "description": "University Lost & Found Full Stack Web Application - React.js Frontend & Node.js Express Backend",
+  "scripts": {
+    "start": "node backend/server.js",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "fullstack",
+    "university-project",
+    "lost-and-found"
+  ],
+  "author": "University Student",
+  "license": "MIT"
+}
