@@ -88,60 +88,6 @@ LostAndFound-FullStack/
 
 ---
 
-## 🚀 4. How to Run Locally
-
-### Prerequisites
-- **Node.js** (v18 or higher installed)
-- **npm** (comes with Node.js)
-
-### Step 1: Start Backend (Terminal 1)
-```bash
-cd backend
-npm install
-npm start
-```
-* Backend runs live at: **`http://localhost:5000`**
-* Test health endpoint: **`http://localhost:5000/api/health`**
-
-### Step 2: Start React Frontend (Terminal 2)
-```bash
-cd frontend
-npm install
-npm run dev
-```
-* React Frontend runs live at: **`http://localhost:3000`**
-
----
-
-## 📤 5. Step-by-Step GitHub Final Project Submission
-
-This directory is ready to be initialized and pushed to GitHub:
-
-```bash
-# 1. Navigate to the project root folder
-cd D:\VocabEnhancer\LostAndFound-FullStack
-
-# 2. Initialize Git
-git init
-
-# 3. Stage all files (node_modules is excluded by .gitignore)
-git add .
-
-# 4. Create initial commit
-git commit -m "feat: complete full stack university lost and found web portal in React.js and Node.js Express"
-
-# 5. Set branch to main
-git branch -M main
-
-# 6. Add your GitHub repository URL (replace with your repo link)
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/LostAndFound-FullStack.git
-
-# 7. Push to GitHub
-git push -u origin main
-```
-
----
-
 ## 👥 6. Pre-Loaded Test Scenarios
 
 The system starts pre-populated with realistic campus items for immediate teacher evaluation:
@@ -154,5 +100,4 @@ The system starts pre-populated with realistic campus items for immediate teache
 
 ---
 
-## 📄 License
-Submitted for academic course evaluation under the **MIT License**.
+Thank you
