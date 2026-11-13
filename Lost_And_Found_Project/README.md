@@ -2,8 +2,7 @@
 
 > **Academic Project Submission**  
 > **Course Subject:** **Full Stack Web Development**  
-> **Architecture:** **MERN / React.js + Node.js & Express.js REST API**  
-> **Degree Program:** B.Tech / B.E. / MCA / BCA in Computer Science & Engineering  
+> **Architecture:** **MERN / React.js + Node.js & Express.js REST API**
 
 ![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js_v18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -114,35 +113,6 @@ npm run dev
 
 ---
 
-## 📤 5. Step-by-Step GitHub Final Project Submission
-
-This directory is ready to be initialized and pushed to GitHub:
-
-```bash
-# 1. Navigate to the project root folder
-cd D:\VocabEnhancer\LostAndFound-FullStack
-
-# 2. Initialize Git
-git init
-
-# 3. Stage all files (node_modules is excluded by .gitignore)
-git add .
-
-# 4. Create initial commit
-git commit -m "feat: complete full stack university lost and found web portal in React.js and Node.js Express"
-
-# 5. Set branch to main
-git branch -M main
-
-# 6. Add your GitHub repository URL (replace with your repo link)
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/LostAndFound-FullStack.git
-
-# 7. Push to GitHub
-git push -u origin main
-```
-
----
-
 ## 👥 6. Pre-Loaded Test Scenarios
 
 The system starts pre-populated with realistic campus items for immediate teacher evaluation:
@@ -155,5 +125,4 @@ The system starts pre-populated with realistic campus items for immediate teache
 
 ---
 
-## 📄 License
-Submitted for academic course evaluation under the **MIT License**.
+Thank You
