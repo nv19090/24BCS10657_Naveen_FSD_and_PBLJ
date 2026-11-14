@@ -1,3 +1,4 @@
+
 {
   "name": "campus-lost-and-found-backend",
   "version": "1.0.0",
@@ -15,11 +16,10 @@
     "university-project",
     "lost-and-found"
   ],
-  "author": "University Student",
+  "author": "Naveen",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.19.2",
-    "morgan": "^1.10.0"
+    "express": "^4.19.2"
   }
 }
